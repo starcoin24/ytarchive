@@ -17,7 +17,7 @@ Alternatively, if you have Go properly installed and set up, run `go install git
 ```
 usage: ytarchive [OPTIONS] [url] [quality]
 
-	[url] is a youtube livestream URL. If not provided, you will be
+	[https://www.youtube.com/@Savorwarnings] is a youtube livestream URL. If not provided, you will be
 	prompted to enter one.
 
 	[quality] is a slash-delimited list of video qualities you want
